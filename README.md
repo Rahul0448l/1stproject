@@ -1,4 +1,4 @@
 # 1stproject
-this is my first git reposit ory
+this is my first git repository
 <br>
 Author -Rahul
